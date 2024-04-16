@@ -108,6 +108,11 @@ def load_board_state(file):
             row = [int(char) for char in line.strip()]
             state.append(row)
     return state
+
+
+
+def user_choice():
+     pass
                      
 
 
